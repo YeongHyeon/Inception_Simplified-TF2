@@ -3,8 +3,8 @@
 
 ## Concept
 <div align="center">
-  <img src="./figures/xception.png" width="600">  
-  <p> [1].</p>
+  <img src="./figures/inception.png" width="500">  
+  <p> The Inception module [1, 2].</p>
 </div>
 
 ## Performance
