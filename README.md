@@ -4,7 +4,7 @@
 ## Concept
 <div align="center">
   <img src="./figures/inception.png" width="400">  
-  <p> The Inception module [1, 2].</p>
+  <p> The Inception module [1, 2]. In this repository, the concept of a simplified inception module is adopted for implementation.</p>
 </div>
 
 ## Performance
