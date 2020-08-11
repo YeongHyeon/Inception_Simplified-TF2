@@ -3,7 +3,7 @@
 
 ## Concept
 <div align="center">
-  <img src="./figures/inception.png" width="500">  
+  <img src="./figures/inception.png" width="400">  
   <p> The Inception module [1, 2].</p>
 </div>
 
