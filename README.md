@@ -1,6 +1,10 @@
 [TensorFlow 2] Going Deeper with Convolutions | Simplified Version
 =====
 
+TensorFlow implementation of "Going Deeper with Convolutions"
+
+## Related Repositories
+<a href="https://github.com/YeongHyeon/XCeption-TF2">XCeption-TF2</a>  
 ## Concept
 <div align="center">
   <img src="./figures/inception.png" width="400">  
